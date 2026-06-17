@@ -1,0 +1,102 @@
+<svg width="1280" height="820" viewBox="0 0 1280 820" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono','Menlo','Monaco','DejaVu Sans Mono',monospace">
+<defs>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="18" stdDeviation="28" flood-color="#000000" flood-opacity="0.55"/></filter>
+<clipPath id="win"><rect x="24" y="24" width="1232" height="772" rx="12"/></clipPath>
+<linearGradient id="page" x1="0" y1="0" x2="1280" y2="820" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#15102b"/><stop offset="1" stop-color="#080611"/></linearGradient>
+</defs>
+<rect width="1280" height="820" fill="url(#page)"/>
+<g filter="url(#shadow)"><rect x="24" y="24" width="1232" height="772" rx="12" fill="#0f0e17"/></g>
+<g clip-path="url(#win)">
+<rect x="24" y="24" width="1232" height="38" fill="#0a0914"/>
+<circle cx="46" cy="44" r="6" fill="#f87171"/>
+<circle cx="66" cy="44" r="6" fill="#fbbf24"/>
+<circle cx="86" cy="44" r="6" fill="#6ec89e"/>
+<text x="640" y="48" font-size="12.5" fill="#908caa" text-anchor="middle">brightest.ts — Clowk</text>
+<rect x="24" y="62" width="48" height="706" fill="#0a0914"/>
+<rect x="24" y="76" width="2" height="28" fill="#c2a6e2"/>
+<g transform="translate(40, 81)" fill="none" stroke="#c2a6e2" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M0 0h14v18H0z M0 4h14"/></g>
+<g transform="translate(40, 125)" fill="none" stroke="#4a4662" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M2 2a5 5 0 1 0 7 7 5 5 0 0 0-7-7z M9 9l5 5"/></g>
+<g transform="translate(40, 169)" fill="none" stroke="#4a4662" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M3 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4z M3 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4z M12 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4z M5 4h5a2 2 0 0 1 2 2v0 M3 6v6"/></g>
+<g transform="translate(40, 213)" fill="none" stroke="#4a4662" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M3 2l11 7-11 7z"/></g>
+<g transform="translate(40, 257)" fill="none" stroke="#4a4662" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M1 1h6v6H1z M9 1h6v6H9z M1 9h6v6H1z M9 9h6v6H9z"/></g>
+<rect x="72" y="62" width="220" height="706" fill="#0f0e17"/>
+<rect x="72" y="62" width="220" height="26" fill="#0a0914"/>
+<text x="88" y="79" font-size="10.5" letter-spacing="1.2" fill="#ffffffe6">EXPLORER</text>
+<path d="M86 98 l4 3 -4 3z" fill="#6e6a86" transform="rotate(90 88 101)"/>
+<text x="98" y="104" font-size="12.5" fill="#ffffffe6" font-weight="600" letter-spacing="0.4">CLOWK</text>
+<path d="M100 122 l4 3 -4 3z" fill="#6e6a86" transform=""/>
+<text x="112" y="128" font-size="12.5" fill="#6e6a86">.github</text>
+<path d="M100 146 l4 3 -4 3z" fill="#6e6a86" transform="rotate(90 102 149)"/>
+<text x="112" y="152" font-size="12.5" fill="#908caa">src</text>
+<rect x="72" y="160" width="220" height="24" fill="#7c3aed33"/>
+<rect x="115" y="167" width="9" height="11" rx="1.5" fill="none" stroke="#7aafe0" stroke-width="1.3"/>
+<text x="130" y="176" font-size="12.5" fill="#e0def4">brightest.ts</text>
+<path d="M100 194 l4 3 -4 3z" fill="#6e6a86" transform="rotate(90 102 197)"/>
+<text x="112" y="200" font-size="12.5" fill="#908caa">themes</text>
+<rect x="115" y="215" width="9" height="11" rx="1.5" fill="none" stroke="#fbbf24" stroke-width="1.3"/>
+<text x="130" y="224" font-size="12.5" fill="#908caa">clowk-night-color-theme.json</text>
+<rect x="101" y="239" width="9" height="11" rx="1.5" fill="none" stroke="#c2a6e2" stroke-width="1.3"/>
+<text x="116" y="248" font-size="12.5" fill="#908caa">CHANGELOG.md</text>
+<rect x="101" y="263" width="9" height="11" rx="1.5" fill="none" stroke="#6e6a86" stroke-width="1.3"/>
+<text x="116" y="272" font-size="12.5" fill="#908caa">LICENSE</text>
+<rect x="101" y="287" width="9" height="11" rx="1.5" fill="none" stroke="#fbbf24" stroke-width="1.3"/>
+<text x="116" y="296" font-size="12.5" fill="#fbbf24">package.json</text>
+<rect x="101" y="311" width="9" height="11" rx="1.5" fill="none" stroke="#c2a6e2" stroke-width="1.3"/>
+<text x="116" y="320" font-size="12.5" fill="#908caa">README.md</text>
+<rect x="292" y="62" width="964" height="706" fill="#0f0e17"/>
+<rect x="292" y="62" width="964" height="36" fill="#0c0b14"/>
+<rect x="292" y="62" width="170" height="36" fill="#0f0e17"/>
+<rect x="292" y="62" width="170" height="2" fill="#c2a6e2"/>
+<rect x="308" y="75" width="9" height="11" rx="1.5" fill="none" stroke="#7aafe0" stroke-width="1.3"/>
+<text x="326" y="84" font-size="12.5" fill="#e0def4">brightest.ts</text>
+<text x="434" y="84" font-size="13" fill="#908caa">×</text>
+<text x="488" y="84" font-size="12.5" fill="#6e6a86">package.json</text>
+<text x="334" y="124" font-size="14.5" fill="#393552" text-anchor="end">1</text>
+<text x="360" y="124" font-size="14.5" xml:space="preserve"><tspan fill="#c2a6e2" font-style="italic">import</tspan><tspan fill="#e0def4"> </tspan><tspan fill="#6e6a86">{ </tspan><tspan fill="#e0def4">useMemo</tspan><tspan fill="#6e6a86"> }</tspan><tspan fill="#e0def4"> </tspan><tspan fill="#c2a6e2" font-style="italic">from</tspan><tspan fill="#e0def4"> </tspan><tspan fill="#6ec89e">'react'</tspan></text>
+<text x="334" y="150" font-size="14.5" fill="#393552" text-anchor="end">2</text>
+<text x="334" y="176" font-size="14.5" fill="#393552" text-anchor="end">3</text>
+<text x="360" y="176" font-size="14.5" xml:space="preserve"><tspan fill="#4a4680" font-style="italic">// Clowk — a cosmic dark theme for VS Code &amp; Cursor</tspan></text>
+<text x="334" y="202" font-size="14.5" fill="#393552" text-anchor="end">4</text>
+<text x="360" y="202" font-size="14.5" xml:space="preserve"><tspan fill="#c2a6e2" font-style="italic">interface</tspan><tspan fill="#e0def4"> </tspan><tspan fill="#22d3ee">Star</tspan><tspan fill="#e0def4"> </tspan><tspan fill="#6e6a86">{</tspan></text>
+<text x="334" y="228" font-size="14.5" fill="#393552" text-anchor="end">5</text>
+<text x="360" y="228" font-size="14.5" xml:space="preserve"><tspan fill="#e0def4">  name</tspan><tspan fill="#6e6a86">: </tspan><tspan fill="#22d3ee">string</tspan></text>
+<text x="334" y="254" font-size="14.5" fill="#393552" text-anchor="end">6</text>
+<text x="360" y="254" font-size="14.5" xml:space="preserve"><tspan fill="#e0def4">  magnitude</tspan><tspan fill="#6e6a86">: </tspan><tspan fill="#22d3ee">number</tspan></text>
+<text x="334" y="280" font-size="14.5" fill="#393552" text-anchor="end">7</text>
+<text x="360" y="280" font-size="14.5" xml:space="preserve"><tspan fill="#e0def4">  visible</tspan><tspan fill="#6e6a86">: </tspan><tspan fill="#22d3ee">boolean</tspan></text>
+<text x="334" y="306" font-size="14.5" fill="#393552" text-anchor="end">8</text>
+<text x="360" y="306" font-size="14.5" xml:space="preserve"><tspan fill="#6e6a86">}</tspan></text>
+<text x="334" y="332" font-size="14.5" fill="#393552" text-anchor="end">9</text>
+<text x="334" y="358" font-size="14.5" fill="#393552" text-anchor="end">10</text>
+<text x="360" y="358" font-size="14.5" xml:space="preserve"><tspan fill="#c2a6e2" font-style="italic">export</tspan><tspan fill="#e0def4"> </tspan><tspan fill="#c2a6e2" font-style="italic">function</tspan><tspan fill="#e0def4"> </tspan><tspan fill="#a78bfa">brightest</tspan><tspan fill="#6e6a86">(</tspan><tspan fill="#e0def4" font-style="italic">stars</tspan><tspan fill="#6e6a86">: </tspan><tspan fill="#22d3ee">Star</tspan><tspan fill="#6e6a86">[]</tspan><tspan fill="#6e6a86">)</tspan><tspan fill="#6e6a86">: </tspan><tspan fill="#22d3ee">Star</tspan><tspan fill="#e0def4"> </tspan><tspan fill="#6e6a86">{</tspan></text>
+<text x="334" y="384" font-size="14.5" fill="#393552" text-anchor="end">11</text>
+<text x="360" y="384" font-size="14.5" xml:space="preserve"><tspan fill="#c2a6e2">  return</tspan><tspan fill="#e0def4"> </tspan><tspan fill="#e0def4">stars</tspan></text>
+<text x="334" y="410" font-size="14.5" fill="#393552" text-anchor="end">12</text>
+<text x="360" y="410" font-size="14.5" xml:space="preserve"><tspan fill="#6e6a86">    .</tspan><tspan fill="#a78bfa">filter</tspan><tspan fill="#6e6a86">(</tspan><tspan fill="#6e6a86">(</tspan><tspan fill="#e0def4" font-style="italic">s</tspan><tspan fill="#6e6a86">) </tspan><tspan fill="#c2a6e2">=&gt;</tspan><tspan fill="#e0def4"> </tspan><tspan fill="#e0def4" font-style="italic">s</tspan><tspan fill="#6e6a86">.</tspan><tspan fill="#e0def4">visible</tspan><tspan fill="#6e6a86">)</tspan></text>
+<text x="334" y="436" font-size="14.5" fill="#393552" text-anchor="end">13</text>
+<text x="360" y="436" font-size="14.5" xml:space="preserve"><tspan fill="#6e6a86">    .</tspan><tspan fill="#a78bfa">sort</tspan><tspan fill="#6e6a86">(</tspan><tspan fill="#6e6a86">(</tspan><tspan fill="#e0def4" font-style="italic">a</tspan><tspan fill="#6e6a86">, </tspan><tspan fill="#e0def4" font-style="italic">b</tspan><tspan fill="#6e6a86">) </tspan><tspan fill="#c2a6e2">=&gt;</tspan><tspan fill="#e0def4"> </tspan><tspan fill="#e0def4" font-style="italic">a</tspan><tspan fill="#6e6a86">.</tspan><tspan fill="#e0def4">magnitude</tspan><tspan fill="#e0def4"> </tspan><tspan fill="#22d3ee">-</tspan><tspan fill="#e0def4"> </tspan><tspan fill="#e0def4" font-style="italic">b</tspan><tspan fill="#6e6a86">.</tspan><tspan fill="#e0def4">magnitude</tspan><tspan fill="#6e6a86">)</tspan><tspan fill="#6e6a86">[</tspan><tspan fill="#fbbf24">0</tspan><tspan fill="#6e6a86">]</tspan></text>
+<text x="334" y="462" font-size="14.5" fill="#393552" text-anchor="end">14</text>
+<text x="360" y="462" font-size="14.5" xml:space="preserve"><tspan fill="#6e6a86">}</tspan></text>
+<text x="334" y="488" font-size="14.5" fill="#393552" text-anchor="end">15</text>
+<text x="334" y="514" font-size="14.5" fill="#393552" text-anchor="end">16</text>
+<text x="360" y="514" font-size="14.5" xml:space="preserve"><tspan fill="#c2a6e2" font-style="italic">const</tspan><tspan fill="#e0def4"> </tspan><tspan fill="#e0def4">galaxy</tspan><tspan fill="#6e6a86">: </tspan><tspan fill="#22d3ee">Star</tspan><tspan fill="#6e6a86">[]</tspan><tspan fill="#e0def4"> </tspan><tspan fill="#22d3ee">=</tspan><tspan fill="#e0def4"> </tspan><tspan fill="#6e6a86">[</tspan></text>
+<text x="334" y="540" font-size="14.5" fill="#393552" text-anchor="end">17</text>
+<text x="360" y="540" font-size="14.5" xml:space="preserve"><tspan fill="#6e6a86">  { </tspan><tspan fill="#e0def4">name</tspan><tspan fill="#6e6a86">: </tspan><tspan fill="#6ec89e">'Vega'</tspan><tspan fill="#6e6a86">, </tspan><tspan fill="#e0def4">magnitude</tspan><tspan fill="#6e6a86">: </tspan><tspan fill="#fbbf24">0.03</tspan><tspan fill="#6e6a86">, </tspan><tspan fill="#e0def4">visible</tspan><tspan fill="#6e6a86">: </tspan><tspan fill="#e0a5c5">true</tspan><tspan fill="#6e6a86"> }</tspan><tspan fill="#6e6a86">,</tspan></text>
+<text x="334" y="566" font-size="14.5" fill="#393552" text-anchor="end">18</text>
+<text x="360" y="566" font-size="14.5" xml:space="preserve"><tspan fill="#6e6a86">  { </tspan><tspan fill="#e0def4">name</tspan><tspan fill="#6e6a86">: </tspan><tspan fill="#6ec89e">'Sirius'</tspan><tspan fill="#6e6a86">, </tspan><tspan fill="#e0def4">magnitude</tspan><tspan fill="#6e6a86">: </tspan><tspan fill="#fbbf24">-1.46</tspan><tspan fill="#6e6a86">, </tspan><tspan fill="#e0def4">visible</tspan><tspan fill="#6e6a86">: </tspan><tspan fill="#e0a5c5">true</tspan><tspan fill="#6e6a86"> }</tspan><tspan fill="#6e6a86">,</tspan></text>
+<text x="334" y="592" font-size="14.5" fill="#393552" text-anchor="end">19</text>
+<text x="360" y="592" font-size="14.5" xml:space="preserve"><tspan fill="#6e6a86">]</tspan></text>
+<text x="334" y="618" font-size="14.5" fill="#393552" text-anchor="end">20</text>
+<rect x="292" y="626" width="964" height="26" fill="none" stroke="#1e1b3a" stroke-width="1"/>
+<text x="334" y="644" font-size="14.5" fill="#a78bfa" text-anchor="end">21</text>
+<text x="360" y="644" font-size="14.5" xml:space="preserve"><tspan fill="#e0def4">console</tspan><tspan fill="#6e6a86">.</tspan><tspan fill="#a78bfa">log</tspan><tspan fill="#6e6a86">(</tspan><tspan fill="#6ec89e">`✨ </tspan><tspan fill="#c2a6e2">${</tspan><tspan fill="#a78bfa">brightest</tspan><tspan fill="#6e6a86">(</tspan><tspan fill="#e0def4">galaxy</tspan><tspan fill="#6e6a86">)</tspan><tspan fill="#6e6a86">.</tspan><tspan fill="#e0def4">name</tspan><tspan fill="#c2a6e2">}</tspan><tspan fill="#6ec89e">`</tspan><tspan fill="#6e6a86">)</tspan></text>
+<rect x="24" y="768" width="1232" height="28" fill="#0a0914"/>
+<rect x="24" y="768" width="118" height="28" fill="#7c3aed"/>
+<text x="40" y="786" font-size="11.5" fill="#ffffff">⎇ main</text>
+<text x="100" y="786" font-size="11.5" fill="#ffffff">✦</text>
+<text x="896" y="786" font-size="11.5" fill="#908caa">Ln 21, Col 30</text>
+<text x="1006" y="786" font-size="11.5" fill="#908caa">UTF-8</text>
+<text x="1061" y="786" font-size="11.5" fill="#908caa">TypeScript</text>
+<text x="1240" y="786" font-size="11.5" fill="#c2a6e2" text-anchor="end">✦ Clowk Night</text>
+</g>
+</svg>

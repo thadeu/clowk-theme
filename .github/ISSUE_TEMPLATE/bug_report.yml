@@ -1,0 +1,40 @@
+name: 🐛 Bug report
+description: Report a color, contrast or scope that looks wrong
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to report an issue with Clowk!
+  - type: input
+    id: editor
+    attributes:
+      label: Editor & version
+      placeholder: "VS Code 1.95.0 / Cursor 0.43.0"
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: Language / file type
+      placeholder: "TypeScript, Ruby, CSS..."
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What looks wrong?
+      description: Describe the token or UI element and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: A picture is worth a thousand hex codes. Paste it here.
+  - type: input
+    id: scope
+    attributes:
+      label: Token scope (optional)
+      description: 'Output of "Developer: Inspect Editor Tokens and Scopes".'
+      placeholder: "source.ts meta.function entity.name.function"

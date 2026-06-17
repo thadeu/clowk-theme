@@ -1,0 +1,14 @@
+.vscode/**
+.vscode-test/**
+.github/**
+.claude/**
+scripts/**
+node_modules/**
+.gitignore
+.editorconfig
+.vscodeignore
+pnpm-lock.yaml
+CONTRIBUTING.md
+images/preview.svg
+images/icon.svg
+*.vsix
