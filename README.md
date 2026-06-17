@@ -56,8 +56,8 @@ Extensions view → ··· menu → Install from VSIX…
 ### From source
 
 ```bash
-git clone https://github.com/thadeu/vscode-clowk-theme.git
-cd vscode-clowk-theme
+git clone https://github.com/thadeu/clowk-theme.git
+cd clowk-theme
 pnpm install
 pnpm run package        # produces clowk-theme-<version>.vsix
 code --install-extension clowk-theme-*.vsix   # or: cursor --install-extension ...
@@ -100,7 +100,7 @@ For the cleanest look with Clowk, this pairs nicely:
 
 Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) for how to
 run the theme locally and submit changes. Bug reports and ideas go in
-[Issues](https://github.com/thadeu/vscode-clowk-theme/issues).
+[Issues](https://github.com/thadeu/clowk-theme/issues).
 
 ## 📄 License
 

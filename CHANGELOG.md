@@ -17,5 +17,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Semantic highlighting (`semanticTokenColors`) for richer, language-server-aware colors.
 - 16-color ANSI terminal palette tuned to the cosmic background.
 
-[Unreleased]: https://github.com/thadeu/vscode-clowk-theme/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/thadeu/vscode-clowk-theme/releases/tag/v0.1.0
+[Unreleased]: https://github.com/thadeu/clowk-theme/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/thadeu/clowk-theme/releases/tag/v0.1.0

@@ -43,7 +43,7 @@ Thanks for your interest in improving **Clowk**! Contributions of all sizes are 
 ## Reporting issues
 
 Found a scope that looks off, or a UI element with poor contrast? Please
-[open an issue](https://github.com/thadeu/vscode-clowk-theme/issues) and include:
+[open an issue](https://github.com/thadeu/clowk-theme/issues) and include:
 
 - The language / file type.
 - A screenshot.

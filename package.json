@@ -4,6 +4,7 @@
   "description": "A cosmic dark theme inspired by nebulae and galaxies for Visual Studio Code and Cursor.",
   "version": "0.1.0",
   "publisher": "thadeu",
+  "packageManager": "pnpm@10.33.4",
   "author": {
     "name": "Thadeu Esteves",
     "email": "tadeuu@gmail.com"
@@ -47,12 +48,12 @@
     "@vscode/vsce": "^3.2.1",
     "ovsx": "^0.10.1"
   },
-  "homepage": "https://github.com/thadeu/vscode-clowk-theme#readme",
+  "homepage": "https://github.com/thadeu/clowk-theme#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thadeu/vscode-clowk-theme.git"
+    "url": "https://github.com/thadeu/clowk-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/thadeu/vscode-clowk-theme/issues"
+    "url": "https://github.com/thadeu/clowk-theme/issues"
   }
 }
