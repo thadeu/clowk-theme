@@ -2,7 +2,7 @@
   "name": "clowk-theme",
   "displayName": "Clowk",
   "description": "A cosmic dark theme inspired by nebulae and galaxies for Visual Studio Code and Cursor.",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "publisher": "thadeu",
   "packageManager": "pnpm@10.33.4",
   "author": {
