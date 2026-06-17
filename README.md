@@ -96,6 +96,27 @@ For the cleanest look with Clowk, this pairs nicely:
 }
 ```
 
+## 🛠 Troubleshooting
+
+### Colors look off, washed out or wrong (especially on a second Mac or an external display)
+
+A color theme is just data — it renders the exact same hex values on every
+machine. If Clowk looks different or "off" on one Mac, it's almost always the
+**display color profile**, not the theme.
+
+This happened on a second Mac where the display was set to the **"Color LCD"**
+profile, which shifted the whole palette. Switching to a standard sRGB profile
+fixed it instantly:
+
+> **System Settings → Displays → Color Profile → `sRGB IEC61966-2.1`**
+> (or your display's calibrated/standard profile)
+
+Other things that change how the theme *looks* (none are the theme itself):
+
+- **True Tone** and **Night Shift** warm up the whole screen — turn them off when comparing.
+- `workbench.colorCustomizations` / `editor.tokenColorCustomizations` in your `settings.json` override theme colors.
+- An outdated VS Code / Cursor ignores newer color keys and falls back to defaults — keep the editor updated.
+
 ## 🤝 Contributing
 
 Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) for how to
