@@ -11,4 +11,5 @@ pnpm-lock.yaml
 CONTRIBUTING.md
 images/preview.svg
 images/icon.svg
+images/clowk-dark.svg
 *.vsix
